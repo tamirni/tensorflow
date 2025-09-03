@@ -2,4 +2,6 @@ For doing comit of more then one file.
 
 Very basic :-(
 
+Changing file after it was added and commited ....
+
 
